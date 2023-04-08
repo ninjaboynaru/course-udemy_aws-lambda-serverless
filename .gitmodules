@@ -1,0 +1,3 @@
+[submodule "aws-serverless"]
+	path = course_materials/aws-serverless
+	url = https://github.com/awsrun/aws-serverless.git
