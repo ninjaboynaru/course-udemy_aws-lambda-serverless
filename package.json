@@ -1,0 +1,13 @@
+{
+	"name": "course-udemy_aws-lambda-serverless",
+	"private": "true",
+	"scripts": {
+		"lint": "esw --config ./lint/.eslintrc.js --watch --fix --clear"
+	},
+	"devDependencies": {
+		"eslint": "^8.37.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.27.5",
+		"eslint-watch": "^8.0.0"
+	}
+}

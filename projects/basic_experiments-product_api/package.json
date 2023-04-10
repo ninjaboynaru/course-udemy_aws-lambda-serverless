@@ -1,5 +1,4 @@
 {
-	"name": "aws-tut-2-project",
 	"private": "true",
 	"scripts": {
 		"lint": "esw --config ./lint/.eslintrc.js --ext .js --watch --fix --clear",
