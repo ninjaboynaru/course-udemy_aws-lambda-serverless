@@ -1,4 +1,4 @@
-# aws-tut-2
+# basic_experiments-product_api
 
 ## Some learned things of note
 1. Only a certain set of fields are permitted in a Lambda function return value. The inclusion of any other fields will result in the API Gateway connected to the lambda function responding with a `502 bad gateway` and `{ message: 'Internal Server Error'}` response

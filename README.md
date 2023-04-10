@@ -2,6 +2,7 @@
 ## Links
 1. [Udemy Course](https://www.udemy.com/course/aws-lambda-serverless-developer-guide-with-hands-on-labs/learn/)
 2. [Project Code](https://github.com/awsrun/aws-serverless)
+3. [AWS CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)
 
 ## Quickly configure AWS CLI credentials for long term use
 1. Install the AWS CLI
